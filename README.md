@@ -1,6 +1,6 @@
 # Tesnet tea protocol tutorial
 
-# How to complete all taks tea tesnet
+# How to complete  taks tea tesnet
 ## Step 1
 
 - It is important to make sure you have registered for the Tesnet whitelist tea protocol
