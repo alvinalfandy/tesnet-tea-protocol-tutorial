@@ -40,9 +40,18 @@
 
 ![alt text](img/image-5.png)
 
-![alt text](img/image-6.png)
+- Lalu kalian download file yaml
+![](img/github1.png)
 
-- Done, then just wait for it to be approved, then scroll down and click continue your journey
+
+- Lalu menuju ke https://github.com/new
+- Buat nama dan decription
+- Create reposity
+- Lalu upload file yang kalian download tadi
+![alt text](img/github2.png)
+
+
+- Done, then just wait for it to be approved,.
 
 ![alt text](img/image-7.png)
 
