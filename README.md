@@ -61,3 +61,7 @@
 - Then you can see the projects that you registered and are waiting for approval, you can also register other projects so that they can be approved quickly. This is important because the next task requires approval. For staking, at least 2 projects must be approved.
 
 ## I haven't been approved yet, I will continue this tutorial after I have been approved
+
+## Update step 3
+- from channel airdrop empire https://www.youtube.com/watch?v=VSige5kwpdc
+  
